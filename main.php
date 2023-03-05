@@ -70,7 +70,7 @@ include "main/preloader.php";
             </div>
             <div class="navbar-option d-flex align-items-center">
               <div class="navbar-option-item navbar-option-order">
-                <a href="shops-grid.html" class="btn text-nowrap">
+                <a href="#" class="btn text-nowrap">
                   Order Online <i class="flaticon-shopping-cart-black-shape"></i>
                 </a>
               </div>
@@ -155,7 +155,7 @@ include "main/preloader.php";
           <div class="quick-item-text">
             <h3 class="color-white">Crispy Hot <br> Chicken Burger</h3>
             <h4 class="color-white">Start At <span>$5.50</span></h4>
-            <a href="#" class="btn btn-white btn-small">Order Now <i class="flaticon-shopping-cart-black-shape"></i></a>
+            <a href="#" class="btn btn-white btn-small">Add to cart <i class="flaticon-shopping-cart-black-shape"></i></a>
           </div>
         </div>
       </div>
@@ -170,7 +170,7 @@ include "main/preloader.php";
           <div class="quick-item-text">
             <h3 class="color-white">Cheesy Hot <br> Yummy Pizza</h3>
             <h4 class="color-white">Start At <span>$5.50</span></h4>
-            <a href="#" class="btn btn-white btn-small">Order Now <i class="flaticon-shopping-cart-black-shape"></i></a>
+            <a href="#" class="btn btn-white btn-small">Add to cart <i class="flaticon-shopping-cart-black-shape"></i></a>
           </div>
         </div>
       </div>
@@ -194,8 +194,8 @@ include "main/preloader.php";
           </div>
           <div class="combo-two-text">
             <h3>1 Burgers, 2 Drinks, Nachos With French Fries</h3>
-            <a href="shop-details.html" class="btn btn-border btn-small">
-              Order Now <i class="flaticon-shopping-cart-black-shape"></i>
+            <a href="#" class="btn btn-border btn-small">
+              Add to cart <i class="flaticon-shopping-cart-black-shape"></i>
             </a>
           </div>
           <div class="combo-offer-shape combo-offer-shape-red">
@@ -216,8 +216,8 @@ include "main/preloader.php";
           </div>
           <div class="combo-two-text">
             <h3>2 Hotdogs, 2 Drinks, Nachos With French Fries</h3>
-            <a href="shop-details.html" class="btn btn-border btn-small">
-              Order Now <i class="flaticon-shopping-cart-black-shape"></i>
+            <a href="#" class="btn btn-border btn-small">
+              Add to cart <i class="flaticon-shopping-cart-black-shape"></i>
             </a>
           </div>
           <div class="combo-offer-shape combo-offer-shape-yellow">
@@ -238,8 +238,8 @@ include "main/preloader.php";
           </div>
           <div class="combo-two-text">
             <h3>2 Burgers, 2 Drinks, Nachos With French Fries</h3>
-            <a href="shop-details.html" class="btn btn-border btn-small">
-              Order Now <i class="flaticon-shopping-cart-black-shape"></i>
+            <a href="#" class="btn btn-border btn-small">
+              Add to cart <i class="flaticon-shopping-cart-black-shape"></i>
             </a>
           </div>
           <div class="combo-offer-shape combo-offer-shape-red">
@@ -260,8 +260,8 @@ include "main/preloader.php";
           </div>
           <div class="combo-two-text">
             <h3>2 Pizzas, 1 Sauce, Nachos With French Fries</h3>
-            <a href="shop-details.html" class="btn btn-border btn-small">
-              Order Now <i class="flaticon-shopping-cart-black-shape"></i>
+            <a href="#" class="btn btn-border btn-small">
+              Add to cart <i class="flaticon-shopping-cart-black-shape"></i>
             </a>
           </div>
           <div class="combo-offer-shape combo-offer-shape-red">
@@ -383,12 +383,6 @@ include "main/preloader.php";
     <div id="about-us" class="container">
       <div class="header-page-content">
         <h1>About Us</h1>
-        <nav aria-label="breadcrumb">
-          <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#home">Home</a></li>
-            <li class="breadcrumb-item active" aria-current="page">About Us</li>
-          </ol>
-        </nav>
       </div>
     </div>
   </div>
@@ -402,7 +396,7 @@ include "main/preloader.php";
           <small>Welcome To BU Food Park</small>
           <h2 class="color-white">We Serve The Best Food Of The Country</h2>
           <p>We are the country's no.1 Fast food retailer with 15+ years of reputation. Country's best burger and pizza are delivered by us. We gain the satisfaction of our customers with our delicate service and extreme high food quality.</p>
-          <a href="about-us.html" class="btn btn-icon">
+          <a href="#" class="btn btn-icon">
             More About Us
             <i class="flaticon-right-arrow-sketch-1"></i>
           </a>
@@ -727,20 +721,20 @@ include "main/preloader.php";
             </div>
             <div class="d-flex justify-content-between flex-wrap flex-lg-nowrap desk-pad-right-30">
               <ul class="footer-details footer-list">
-                <li><a href="about-us.html">About Us</a></li>
-                <li><a href="blogs-grid-without-sidebar.html">Blogs</a></li>
-                <li><a href="faqs.html">FAQ's</a></li>
-                <li><a href="reservation.html">Reservation</a></li>
-                <li><a href="contact-us.html">Contact Us</a></li>
-                <li><a href="cart.html">Cart</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Blogs</a></li>
+                <li><a href="#">FAQ's</a></li>
+                <li><a href="#">Reservation</a></li>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#">Cart</a></li>
               </ul>
               <ul class="footer-details footer-list">
-                <li><a href="our-team.html">Teams</a></li>
-                <li><a href="wishlist.html">Wishlist</a></li>
-                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                <li><a href="terms-conditions.html">Terms & Conditions</a></li>
-                <li><a href="services.html">Services</a></li>
-                <li><a href="my-account.html">My Account</a></li>
+                <li><a href="#">Teams</a></li>
+                <li><a href="#">Wishlist</a></li>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms & Conditions</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">My Account</a></li>
               </ul>
             </div>
           </div>
